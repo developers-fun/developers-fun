@@ -70,7 +70,7 @@ I am helped out by the great [Developers Fun](https://github.com/developers-fun)
 
 - Code Editor: Visual Studio Code (VSCode)
 - Node.JS: 22.16.0 with PNPM
-- Computer: HP Envy 16 with Intel i7
+- Computer: Lenovo Yoga 7 16" with AMD Ryzen 5
 - Browser: Edge & Chrome (Not by choice) and Opera
 - AI: [Microsoft Copilot](https://copilot.microsoft.com)
 - Search Engine: Google & DuckDuckGo
