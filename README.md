@@ -13,8 +13,8 @@ I'm a developer interested in web apps and game websites.
 - HTML
 - Svelte
 - Markdown
-- ~JavaScript
-- ~CSS
+- JavaScript
+- CSS
 - ~C++
 
   ("~" Means I'm still working on it)
@@ -22,14 +22,14 @@ I'm a developer interested in web apps and game websites.
 ---
 
 ## 💎 Favorite Language  
-**Svelte** — The JavaScript Library that basically writes better versions of HTML. Like React or Vue, but better.
+[**Svelte**](https://svelte.dev) — The JavaScript Library that basically writes better versions of HTML. Like React or Vue, but better.
 
 ---
 
 ## 🔧 Currently Building
 
 ### HammerHead Games  
-  A modular SvelteKit-powered game hub with dynamic imports, SSR routing, and responsive UI. Currently adding 75+ games
+  A game website based off [ColdNova](https://coldnova.xyz). Currently adding 75+ games
 
 ---
 
@@ -68,10 +68,10 @@ I am helped out by the great [Developers Fun](https://github.com/developers-fun)
 
 ## 🧰 My Setup
 
-- Code Editor: Visual Studio Code (VSCode)
+- Code Editor: Visual Studio Code (VSCode) or Cursor
 - Node.JS: 22.16.0 with PNPM
 - Computer: Lenovo Yoga 7 16" with AMD Ryzen 5
-- Browser: Edge & Chrome (Not by choice) and Opera
+- Browser: Edge & Chrome (Not by choice) and Arc
 - AI: [Microsoft Copilot](https://copilot.microsoft.com)
 - Search Engine: Google & DuckDuckGo
 - Terminal: Windows Powershell
