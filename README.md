@@ -44,6 +44,7 @@ I'm always learning—and pushing the boundaries of my toolbox. Here are a few l
 - C#
 - R
 - Ruby
+- Vue
 
 If you want to help me with learning these email me at [hammerhead.contact2025@gmail.com](mailto:hammerhead.contact2025@gmail.com)
 
@@ -59,21 +60,18 @@ I am helped out by the great [Developers Fun](https://github.com/developers-fun)
 - Git
 - Errors
 - CSS, JavaScript & HTML all in one file
-- Backend Code (Server-Side)
 - Repo Branches
-- Having too many commits
-- JavaScript not being literal enough
 - Netlify (Vercel is better)
 - Securly
 
 ## 🧰 My Setup
 
-- Code Editor: Visual Studio Code (VSCode) or Cursor
-- Node.JS: 22.16.0 with PNPM
+- Code Editor: Cursor
+- Node.JS: 24.3.0 with PNPM, NPM and Yarn
 - Computer: Lenovo Yoga 7 16" with AMD Ryzen 5
-- Browser: Edge & Chrome (Not by choice) and Arc
+- Browser: Opera
 - AI: [Microsoft Copilot](https://copilot.microsoft.com)
-- Search Engine: Google & DuckDuckGo
+- Search Engine: DuckDuckGo
 - Terminal: Windows Powershell
 - Site Host: [Vercel](https://vercel.com)
 
