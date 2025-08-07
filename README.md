@@ -1,7 +1,7 @@
 ![DEVELOPERS FUN Logo](https://raw.githubusercontent.com/developers-fun/ColdNova2.0/refs/heads/main/public/favicon.ico)
 
 
-# 🦈/🤕🔨 DEVELOPERS FUN
+# ![DEVELOPERS FUN Logo](https://raw.githubusercontent.com/developers-fun/ColdNova2.0/refs/heads/main/public/favicon.ico) DEVELOPERS FUN
 
 I'm a developer interested in web apps and game websites.
 
