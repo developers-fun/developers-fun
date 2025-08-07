@@ -1,7 +1,7 @@
-![HammerHead Logo](https://raw.githubusercontent.com/alvieg/HammerHead-Games/main/static/assets/favicon.ico)
+![DEVELOPERS FUN Logo](https://raw.githubusercontent.com/alvieg/HammerHead-Games/main/static/assets/favicon.ico)
 
 
-# 🦈/🤕🔨 HammerHead
+# 🦈/🤕🔨 DEVELOPERS FUN
 
 I'm a developer interested in web apps and game websites.
 
