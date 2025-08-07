@@ -1,4 +1,4 @@
-![DEVELOPERS FUN Logo](https://raw.githubusercontent.com/alvieg/HammerHead-Games/main/static/assets/favicon.ico)
+![DEVELOPERS FUN Logo](https://raw.githubusercontent.com/developers-fun/ColdNova2.0/refs/heads/main/public/favicon.ico)
 
 
 # 🦈/🤕🔨 DEVELOPERS FUN
